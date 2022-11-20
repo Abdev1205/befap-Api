@@ -1,0 +1,22 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdev1205/befap-Api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abdev1205/befap-Api/issues"
+  },
+  "homepage": "https://github.com/Abdev1205/befap-Api#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
